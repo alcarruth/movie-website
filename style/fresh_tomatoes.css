@@ -1,6 +1,6 @@
 body {
     padding-top: 80px;
-    background: #ddd;
+    background: #fff;
 }
 #trailer .modal-dialog {
     margin-top: 200px;
@@ -17,18 +17,6 @@ body {
     width: 100%;
     height: 100%;
 }
-.movie-tile {
-    margin: 0px;
-    padding-top: 40px;
-    background: #fff;
-    /* height set to accomodate long titles */
-    height: 500px;
-    /* width: 300px; */
-}
-.movie-tile:hover {
-    background-color: #ffd;
-    cursor: pointer;
-}
 .scale-media {
     padding-bottom: 56.25%;
     position: relative;
@@ -44,19 +32,29 @@ body {
 }
 
 /* these were previously attributes on the img tag  */
-.movie-tile img {
-    width: 220px;
-    height: 342px;
+
+.movie-tile {
+    margin: 0px;
+    height: 440px;
 }
 
-/* some borders for better definition
-   and highlighting */
-.movie-tile {
+.movie-tile-content {
+    padding: 0px;
+    padding-top: 20px;
+    width: 270px;
+    height: 430px;
+    margin: auto;
     border: 1px solid #bbb;
 }
-.movie-tile:hover {
+
+.movie-tile-content:hover {
     border-color: #bbb;
+    background-color: #ffd;
+    cursor: pointer;
 }
+
 .movie-tile img {
-    border: 1px solid #000;
+    width: 200px;
+    height: 310px;
+    border: 1px solid #aaa;
 }
