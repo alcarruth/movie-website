@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Fresh Tomatoes!</title>
+  
+  <!-- Bootstrap 3 -->
+  <link rel="stylesheet" href="style/bootstrap.css">
+  <link rel="stylesheet" href="style/bootstrap-theme.css">
+  <script src="scripts/jquery-1.10.1.min.js"></script>
+  <script src="scripts/bootstrap.js"></script>
+  
+  <!-- Fresh Tomatoes css and js -->
+  <link rel="stylesheet" href="style/fresh_tomatoes.css" type="text/css" media="screen">
+  <script src="scripts/fresh_tomatoes.js"></script>
+</head>
+
+
+<body>
+
+  <!-- Trailer Video Modal -->
+  <div class="modal" id="trailer">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <a href="#" class="hanging-close" data-dismiss="modal" aria-hidden="true">
+          <img src="images/dismiss.png">
+        </a>
+        <div class="scale-media" id="trailer-video-container">
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Main Page Content -->
+  <div class="container">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Movie Tiles -->
+  <div class="container">
+    {movie_tiles}
+  </div>
+
+</body>
+</html>
