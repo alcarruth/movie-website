@@ -1,6 +1,6 @@
 body {
     padding-top: 80px;
-    background: #ddd;
+    background: #fff;
 }
 #trailer .modal-dialog {
     margin-top: 200px;
@@ -18,15 +18,14 @@ body {
     height: 100%;
 }
 .movie-tile {
-    margin: 0px;
-    padding-top: 40px;
-    background: #fff;
-    /* height set to accomodate long titles */
-    height: 500px;
-    /* width: 300px; */
+    margin-bottom: 20px;
+    padding-top: 20px;
 }
+
+
+
 .movie-tile:hover {
-    background-color: #ffd;
+    background-color: #EEE;
     cursor: pointer;
 }
 .scale-media {
@@ -41,22 +40,4 @@ body {
     left: 0;
     top: 0;
     background-color: white;
-}
-
-/* these were previously attributes on the img tag  */
-.movie-tile img {
-    width: 220px;
-    height: 342px;
-}
-
-/* some borders for better definition
-   and highlighting */
-.movie-tile {
-    border: 1px solid #bbb;
-}
-.movie-tile:hover {
-    border-color: #bbb;
-}
-.movie-tile img {
-    border: 1px solid #000;
 }
