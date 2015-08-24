@@ -1,6 +1,7 @@
 body {
     padding-top: 80px;
-    background: #fff;
+    /* background-image: url("../images/tomatoes.jpg"); */
+    background: #225;
 }
 #trailer .modal-dialog {
     margin-top: 200px;
@@ -34,27 +35,33 @@ body {
 /* these were previously attributes on the img tag  */
 
 .movie-tile {
+    color: #fff;
+    /* background: #000; */
+    padding: 0px;
     margin: 0px;
     height: 440px;
+    /* border: 1px solid #224; */
+    margin: auto;
+    width: 283px;
 }
 
 .movie-tile-content {
-    padding: 0px;
-    padding-top: 20px;
+    padding: 15px;
+    padding-top: 30px;
     width: 270px;
     height: 430px;
-    margin: auto;
-    border: 1px solid #bbb;
+    margin: 6px;
+    border: 1px solid #224;
 }
 
 .movie-tile-content:hover {
-    border-color: #bbb;
-    background-color: #ffd;
+    border-color: #224;
+    background: #113;
     cursor: pointer;
 }
 
 .movie-tile img {
     width: 200px;
     height: 310px;
-    border: 1px solid #aaa;
+    border: 1px solid #444;
 }
