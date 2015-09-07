@@ -15,49 +15,19 @@ module.exports = function(grunt) {
           engine: 'im',
           sizes: [
 	      {
-		  width: 100,
-		  suffix: '',
-		  quality: 30
-              },
-	      {
 		  width: 200,
 		  suffix: '',
-		  quality: 30
-              },
-	      {
-		  width: 300,
-		  suffix: '',
-		  quality: 30
+		  quality: 20
               },
 	      {
 		  width: 400,
 		  suffix: '',
-		  quality: 30
-              },
-	      {
-		  width: 500,
-		  suffix: '',
-		  quality: 30
+		  quality: 20
               },
 	      {
 		  width: 600,
 		  suffix: '',
-		  quality: 30
-              },
-	      {
-		  width: 700,
-		  suffix: '',
-		  quality: 30
-              },
-	      {
-		  width: 800,
-		  suffix: '',
-		  quality: 30
-              },
-	      {
-		  width: 900,
-		  suffix: '',
-		  quality: 30
+		  quality: 20
               }
 	  ]
         },
