@@ -5,7 +5,7 @@ from media import Movie
 
 planes_trains_and_automobiles = Movie(
     "Planes Trains and Automobiles",
-    "images/planes_trains_and_automobiles.jpg",
+    "images/planes_trains_and_automobiles-200.jpg",
     "https://www.youtube.com/watch?v=VWGqGHMO294",
     """
     Easily excitable Neal Page (Steve Martin) is somewhat of a control
@@ -20,7 +20,7 @@ planes_trains_and_automobiles = Movie(
     
 amy = Movie(
     "Amy",
-    "images/amy.jpg",
+    "images/amy-200.jpg",
     "https://www.youtube.com/watch?v=_2yCIwmNuLE",
     """
     Archival footage and personal testimonials present an intimate
@@ -30,7 +30,7 @@ amy = Movie(
 
 godzilla = Movie(
     "Godzilla",
-    "images/godzilla.jpg",
+    "images/godzilla-200.jpg",
     "https://www.youtube.com/watch?v=vIu85WQTPRc",
     """
     Ford Brody (Aaron Taylor-Johnson), a Navy bomb expert, has just
@@ -45,7 +45,7 @@ godzilla = Movie(
     
 talladega_nights = Movie(
     "Talladega Nights",
-    "images/talladega_nights.jpg",
+    "images/talladega_nights-200.jpg",
     "https://www.youtube.com/watch?v=QgQP6OvR1wA",
     """
     NASCAR superstar Ricky Bobby (Will Ferrell) is at the top of his game;
@@ -58,7 +58,7 @@ talladega_nights = Movie(
 
 inglourious_basterds = Movie(
     "Inglourious Basterds",
-    "images/inglourious_basterds.jpg",
+    "images/inglourious_basterds-200.jpg",
     "https://www.youtube.com/watch?v=-2cRY4p7KIk",
     """
     It is the first year of Germany's occupation of France. Allied officer
@@ -73,7 +73,7 @@ inglourious_basterds = Movie(
 
 whiplash = Movie(
     "Whiplash",
-    "images/whiplash.jpg",
+    "images/whiplash-200.jpg",
     "https://www.youtube.com/watch?v=7d_jQycdQGo",
     """
     Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in
@@ -88,7 +88,7 @@ whiplash = Movie(
 
 mission_impossible_rogue_nation = Movie(
     "Mission Impossible Rogue Nation",
-    "images/mission_impossible_rogue_nation.jpg",
+    "images/mission_impossible_rogue_nation-200.jpg",
     "https://www.youtube.com/watch?v=gOW_azQbOjw",
     """
     With the IMF now disbanded and Ethan Hunt (Tom Cruise) out in the
@@ -103,7 +103,7 @@ mission_impossible_rogue_nation = Movie(
 
 san_andreas = Movie(
     "San Andreas",
-    "images/san_andreas.jpg",
+    "images/san_andreas-200.jpg",
     "https://www.youtube.com/watch?v=23VflsU3kZE",
     """
     A seemingly ideal day turns disastrous when California's notorious San
@@ -117,7 +117,7 @@ san_andreas = Movie(
 
 grand_budapest_hotel = Movie(
     "The Grand Budapest Hotel",
-    "images/grand_budapest_hotel.jpg",
+    "images/grand_budapest_hotel-200.jpg",
     "https://www.youtube.com/watch?v=_DmXdU8Nglk",
     """
     In the 1930s, the Grand Budapest Hotel is a popular European ski
@@ -132,7 +132,7 @@ grand_budapest_hotel = Movie(
 
 guardians_of_the_galaxy = Movie(
     "Guardians of the Galaxy",
-    "images/guardians_of_the_galaxy.jpg",
+    "images/guardians_of_the_galaxy-200.jpg",
     "https://www.youtube.com/watch?v=3CqymRQ1uUU",
     """
     Brash space adventurer Peter Quill (Chris Pratt) finds himself the
