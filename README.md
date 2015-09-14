@@ -15,8 +15,8 @@
 This is a simple application written in python which generates a
 pair of movie trailer webpages:
 
- * fresh_tomatoes.html
- * fresh_tomatoes_inline.html
+ * `fresh_tomatoes.html`
+ * `fresh_tomatoes_inline.html`
 
 The two are identical except that for the second one the images
 are inlined in the `<img>` tags.  The base64 encoding of the images
