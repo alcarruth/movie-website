@@ -27,18 +27,18 @@ brwoser window does not destroy the aesthetics of the page.
 
 ## Directory Structure
 
- * python/movie_db.py
- * python/movie_page.py
- * python/movie_util.py
+ * `python/movie_db.py`
+ * `python/movie_page.py`
+ * `python/movie_util.py`
 
- * src/images/
- * src/scripts/
- * src/style/
- * src/templages/
+ * `src/images/`
+ * `src/scripts/`
+ * `src/style/`
+ * `src/templages/`
 
- * dist/images/
- * dist/scripts/
- * dist/style/
+ * `dist/images/`
+ * `dist/scripts/`
+ * `dist/style/`
 
 Running the executable python script run_me.py in the project root directory 
 results in the two fresh_tomatoes html files being written into the dist 
