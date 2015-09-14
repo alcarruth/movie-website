@@ -4,9 +4,9 @@
 
 ## Quick Start
 
- `$ git clone git@github.com:alcarruth/fullstack-p1-movie-website.git\n`
- `$ cd fullstack-p1-movie-website\n`
- `$ ./run_me.py\n`
+> `$ git clone git@github.com:alcarruth/fullstack-p1-movie-website.git`
+> `$ cd fullstack-p1-movie-website`
+> `$ ./run_me.py`
 
 ## Description 
 
