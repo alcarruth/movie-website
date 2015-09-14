@@ -19,7 +19,7 @@ pair of movie trailer webpages:
  * fresh_tomatoes_inline.html
 
 The two are identical except that for the second one the images
-are inlined in the <img> tags.  The base64 encoding of the images
+are inlined in the `<img>` tags.  The base64 encoding of the images
 is done on the fly by the app.
 
 An attempt at responsive design has been made so that resizing the
