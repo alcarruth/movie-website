@@ -1,0 +1,37 @@
+
+
+Movie Trailer Website
+=====================
+
+Supporting Course: Programming Foundations with Python 
+
+Description 
+------------
+
+  Students will write server­side code to store a list of their
+  favorite movies, including box art imagery and a movie trailer
+  URL. Students will then serve this data as a web page allowing
+  visitors to review their movies and watch the trailers.
+ 
+
+Specifications 
+---------------
+
+ - Page presents required content (movie title, box art and trailer link).
+ - Page is dynamically generated from a Python data structure. 
+ - Page is error free. 
+ - Code is ready for personal review and neatly formatted. 
+ - Comments are present. 
+ - Comments effectively explain longer code procedures. 
+ - A README file is included. 
+ - README file includes details of all the steps required to 
+   successfully run the application. 
+ 
+ * Student includes additional information about their favorite movies 
+   (actors, release date, etc) or personalizes their page with additional 
+   HTML or CSS features. 
+
+
+ 
+ 
+ 

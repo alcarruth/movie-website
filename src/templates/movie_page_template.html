@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Fresh Tomatoes!</title>
+  
+  <!-- Bootstrap 3 and jQuery -->
+  <link rel="stylesheet" href="style/bootstrap.min.css">
+  <link rel="stylesheet" href="style/bootstrap-theme.min.css">
+  <script src="scripts/jquery-1.10.1.min.js"></script>
+  <script src="scripts/bootstrap.min.js"></script>
+  
+  <!-- Fresh Tomatoes css and js -->
+  <link rel="stylesheet" href="style/fresh_tomatoes.css" type="text/css" media="screen">
+  <script src="scripts/fresh_tomatoes.js"></script>
+</head>
+
+
+<body>
+
+  <div class="page">
+
+    <!-- Trailer Video Modal -->
+    <div class="modal" id="trailer">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <a href="#" class="hanging-close" data-dismiss="modal" aria-hidden="true"> X </a>
+          <div class="scale-media" id="trailer-video-container">
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="header">
+      Fresh Tomatoes!
+    </div>
+
+    <!-- Movie Tiles -->
+    <div class="tiles-section">
+      {movie_tiles}
+    </div>
+    
+    <div class="footer">
+      Fresh Tomatoes!
+    </div>
+    
+  </div>
+  
+</body>
+</html>
