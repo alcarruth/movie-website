@@ -38,8 +38,8 @@ brwoser window does not destroy the aesthetics of the page.
  * `dist/scripts/`
  * `dist/style/`
 
-Running the executable python script run_me.py in the project root directory 
+Running the executable python script `run_me.py` in the project root directory 
 results in the two fresh_tomatoes html files being written into the dist 
 directory and opened in browser tabs.  If you only want one of them, you 
-can easily comment out the other in run_me.py.
+can easily comment out the other in `run_me.py`.
 
